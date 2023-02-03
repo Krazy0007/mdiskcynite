@@ -5,14 +5,14 @@ import os
 
 
 class Config(object):
-    API_ID = int(os.getenv("API_ID", "12124605"))
-    API_HASH = os.getenv("API_HASH", "5cf3577d85fd02286535ec2296934287")
-    BOT_TOKEN = os.getenv("BOT_TOKEN", "5660564414:AAE2Hem9t5uouIXHlMMV6Rq-D8A8L1k5ku8")
+    API_ID = int(os.getenv("API_ID", "16182861"))
+    API_HASH = os.getenv("API_HASH", "045d282d6d28057e0e40e622e75ed408")
+    BOT_TOKEN = os.getenv("BOT_TOKEN", "5913456309:AAGfnuwdP6slLTRay-H_ToU1qmHJAfVR2hg")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "mdiskcynitebot")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "String")
-    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001558716347")) 
-    BOT_USERNAME = os.getenv("BOT_USERNAME", "cynitemdiskbot")
-    BOT_OWNER = int(os.getenv("BOT_OWNER", "1883570185"))
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "AQCx8yMoFAeoV9Mpeu8lGlem-KAslFBteEG8PCR_lLPBfA7K9PePuV8qebQR8M6E5iZx1jRwXIoBe3piumKGR41YCH2WqsNKleLinY820QVZZ77jwr-2IsjRaa62v3EgsYnWvdWD7tqwb6MVxfHMD7I5r4HUe_qmLrz82ojm37YnNa6iRPNeEGjHxxlXLcckaMmcHfrf80vOg6yXXeVZI6OB4QCFlTCYOEfNlvKk83Ko2wUGVF_zmvOVmnHlcdOzs7AM5TjzvQAk3AQzGNtzvN2HMH8YLH7fDpZLEfesldJG1Xq9AYNFvqdBdKIXsWASjUZHDA_iAkjVYHOs6GwJmXaXUPS4hwA")
+    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001768174643")) 
+    BOT_USERNAME = os.getenv("BOT_USERNAME", "mdddlinkz_bot")
+    BOT_OWNER = int(os.getenv("BOT_OWNER", "2105004714"))
 #    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "cyniteSupport")
     BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "cynitebackup")
 #    GROUP_USERNAME = os.getenv("GROUP_USERNAME")
@@ -29,8 +29,8 @@ Jᴜsᴛ Tʏᴘᴇ ᴀ Mᴏᴠɪᴇ Nᴀᴍᴇ 🎬**""" )
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴛʜᴇʀᴇ ʏᴏᴜʀ ʟɪɴᴋꜱ.
 
 ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ ᴄʟɪᴄᴋ ᴏɴ ʜᴇʟᴘ ✅""" )
-    UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", "-1001249072794")
-    DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://postbot:postbot@cluster0.ouwne8q.mongodb.net/?retryWrites=true&w=majority")
+    UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", "-1001623431738")
+    DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://cool:cool@cluster0.j6vpr.mongodb.net/?retryWrites=true&w=majority")
     LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001796458234"))
     RESULTS_COUNT = int(os.getenv("RESULTS_COUNT", 20))
     BROADCAST_AS_COPY = os.getenv("BROADCAST_AS_COPY", "True")
