@@ -9,7 +9,7 @@ class Config(object):
     API_HASH = os.getenv("API_HASH", "045d282d6d28057e0e40e622e75ed408")
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5913456309:AAFQ8LYZPzukxgCAOjxwKhiew12lk2mIiuY")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "mdiskcynitebot")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOHcBuwgK2GpMCHBbEjqkh8bhO771m85HmJQQt_Lq7DS75wALRHEDdzaEjYm3DJK6__lI1XvdWDIKrJriFvRlb6XKQaKFRwnPub5kdDa13--q1pD2O6AEQbxH0wcbW457zjID6nVp2xYY8WKzJHMjqmY2p8mBKeOXYrUh4FpkjIrmRqxMvx-QWmoct82DA1tk3-XwFt8k4Bf6-nml2Z5kUHsNlcO5uIED8y3i6b_LgatlizTJ9zc882Vrh8e4BVSqtL63bAi8qv7Gd-dugrNxu237WrJSWyfQB_6mWM4ifwcmLvFElsbQHc6TnNQG6BdfoiQ2QXicJK_omgvoo9PnM50UW1w=")
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001768174643")) 
     BOT_USERNAME = os.getenv("BOT_USERNAME", "mdddlinkz_bot")
     BOT_OWNER = int(os.getenv("BOT_OWNER", "2105004714"))
